@@ -1,1 +1,7 @@
-<form action="http://ttt.ttt"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
+<form>
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname">
+  <input type="submit" value="Submit">
+</form>
