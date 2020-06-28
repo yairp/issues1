@@ -1,7 +1,5 @@
-<form>
-  First name:<br>
-  <input type="text" name="firstname"><br>
-  Last name:<br>
-  <input type="text" name="lastname">
-  <input type="submit" value="Submit">
+<form accept-charset="UTF-8" action="https://ttt.ttt" enctype="multipart/form-data" method="POST">
+  <input type="email" id="email" name="email" required>
+  <textarea rows="4" cols="50" name="comment" required></textarea>
+  <button type="submit">Submit</button>
 </form>
